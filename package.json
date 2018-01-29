@@ -1,0 +1,14 @@
+{
+  "name": "js-initializer",
+  "description": "js-initializer",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmknom/js-initializer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vue-cli": "^2.9.2"
+  }
+}
